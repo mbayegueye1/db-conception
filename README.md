@@ -21,6 +21,8 @@ script SQL
 Décrivez chaque étape et faites des captures d'écrans si cela peut vous simplifier la documentation.
 
 ### dictionnaire des Données
+![](dictio_data.png)
+
 ### MCD 
 ![](MCD.png)
 
