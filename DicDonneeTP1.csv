@@ -1,0 +1,20 @@
+﻿Nom;Description;Type;Taille;Entité
+ID_Joueur;Reference Enregistrement Joueur;int;20;Joueur
+ID_partie;Reference de la Partie;int;20;Partie
+Nbr_partie;le nombre de parties joués;int;20;Partie
+ID_carte;reference la carte ;int;20;Carte
+Nbr_carte;les différentes cartes sur lesquelles les parties se déroulent;int;20;Carte
+ID_score;Reference du score du score par partie;int;20;Partie
+Score;le score du joueur global;int;20;Joueur
+ID_skins;reference au skins  des joueurs;int;20;Skins
+ID_items;reference au items des joueurs;int;20;items
+ID_equipe;Reference de l'equipe;int;20;Equipe
+Pseudo;rensigne le nom du joueur;VarChar;100;Joueur
+Email_joueur;renseigne de l'email du joeur;VarChar;100;Joueur
+PassWord_joueur;renseigne du mot de passe d'acces du joeur;VarChar;100;Joueur
+Level;rensigne du niveau de la partie;int ;10;Partie
+Nom_carte;rensigne le nom de la carte;VarChar;100;Carte
+Val_carte;le poids de la carte ;int;100;carte
+Val_Score;reference à la valeur du score;int;20;score
+Nom_skins;reference nom skin donné;varchar;100;skins
+Nom_items;reference nom items donné;VarChar;100;items
